@@ -1,23 +1,27 @@
-This is a simple interactive Pig Game built using React.js. The game is played between two players who take turns rolling a dice to accumulate points. Each roll adds to the current score, but if a player rolls a 1, their turn ends and the current score resets. Players can choose to hold their score to add it to their total score. The first player to reach the winning score wins the game.
+🎲 Pig Game (React JS)
 
-This project demonstrates React concepts such as useState for state management, component-based architecture, event handling, and dynamic UI updates.
+The Pig Game is a simple and fun dice game built using React.js. Two players take turns rolling a dice and try to reach the winning score. Players can hold their score to avoid losing points when a 1 appears on the dice.
 
-Features
+🚀 Features
 
-Two-player turn-based gameplay
+🎲 Random dice roll functionality
 
-Random dice roll generation
+👥 Two-player turn-based game
 
-Hold and New Game functionality
+➕ Current score and total score tracking
 
-Dynamic UI updates using React state
+🔄 Switch player when dice shows 1
 
-Technologies Used
+🏆 Winning score system
+
+⚡ Built with React Hooks (useState)
+
+🛠 Tech Stack
 
 React.js
 
 JavaScript (ES6)
 
-HTML
+HTML5
 
-CSS
+CSS3
